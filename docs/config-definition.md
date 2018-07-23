@@ -7,7 +7,7 @@
   * [AWS][0]
   * [GCP][1]
   * [Azure][2]
-  * [DigitalOcean] [11]
+  * [DigitalOcean][11]
 
 ## Overview
 
